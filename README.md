@@ -22,7 +22,7 @@ If you want to know more about my experience, you can check my LinkedIn.
 
 <p>
     <a href='https://www.linkedin.com/in/evenegas06/'>
-        <img src='./img/linkedin.png' /> in/evenegas06
+        <img src='./img/linkedin.png' /> /in/evenegas06
     </a>
 </p>
 
