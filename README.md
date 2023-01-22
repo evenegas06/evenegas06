@@ -9,17 +9,17 @@ Since I finished my degree, I have been studying on my own in different online p
 PHP is my favorite programming language and I love working with it and Laravel. Currently I'm learning React JS because I consider it a great skill nowadays.
 
 <p align='center'>
-    <img style='margin: 5px;' src='./img/php.png' />
-    <img style='margin: 5px;' src='./img/laravel.png' />
-    <img style='margin: 5px;' src='./img/react.png' />
-    <img style='margin: 5px;' src='./img/javascript.png' />
+    <img style='margin: 8px;' src='./img/php.png' />
+    <img style='margin: 8px;' src='./img/laravel.png' />
+    <img style='margin: 8px;' src='./img/react.png' />
+    <img style='margin: 8px;' src='./img/javascript.png' />
 </p>
 
 If you want to know more about my experience, you can check my LinkedIn.
 
-<p align='center'>
+<p>
     <a href='https://www.linkedin.com/in/evenegas06/'>
-        <img style='margin: 5px;' src='./img/linkedin.png' />
+        <img src='./img/linkedin.png' /> in/evenegas06
     </a>
 </p>
 
