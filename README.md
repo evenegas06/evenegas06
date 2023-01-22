@@ -18,7 +18,7 @@ PHP is my favorite programming language and I love working with it and Laravel. 
     <img style='' src='./img/javascript.png' />
 </p>
 
-If you want to know more about my experience, you can check my LinkedIn.
+If you want to know more about my experience, you can check my LinkedIn profile.
 
 <p>
     <a href='https://www.linkedin.com/in/evenegas06/'>
